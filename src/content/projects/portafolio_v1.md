@@ -2,9 +2,9 @@
 title: LHuatay Portafolio GIS
 date: Jul. 2022
 languages: [JavaScript, HTML, CSS, Leaflet, Geoserver]
-repo: https://github.com/1nfinit0/LuisH-mapCatalog
+repo: https://github.com/portfolio-astro/LuisH-mapCatalog
 live: https://1nfinit0.github.io/LuisH-mapCatalog/
-img: /1nfinit0/img/lhuatay.png
+img: /portfolio-astro/img/lhuatay.png
 ---
 
 Esta es la primera versión de mi portafolio pero enfocado en proyectos de Sistemas de Información Geográfica (SIG). **Este portafolio se enfoca en la implementación de un catálogo de mapas y aplicaciones web geográficas**.

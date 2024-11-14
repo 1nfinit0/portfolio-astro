@@ -2,9 +2,9 @@
 title: triPascal
 date: Sep. 2024
 languages: [Python]
-repo: https://github.com/1nfinit0/triPascal
-live: https://github.com/1nfinit0/triPascal
-img: /1nfinit0/img/triPascal.png
+repo: https://github.com/portfolio-astro/triPascal
+live: https://github.com/portfolio-astro/triPascal
+img: /portfolio-astro/img/triPascal.png
 ---
 
 Este proyecto implementa un **Triángulo de Pascal** usando Python, explora la conexión entre conceptos como **el teorema de Newton** y **coeficientes binomiales**.
@@ -32,7 +32,7 @@ Asegúrate de tener Python 3.x instalado en tu sistema. Puedes descargarlo desde
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/1nfinit0/triPascal.git
+git clone https://github.com/portfolio-astro/triPascal.git
 cd triPascal
 python triPascal.py
 ```
