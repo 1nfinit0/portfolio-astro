@@ -2,7 +2,7 @@
 title: LHuatay Portafolio GIS
 date: Jul. 2022
 languages: [JavaScript, HTML, CSS, Leaflet, Geoserver]
-repo: https://github.com/portfolio-astro/LuisH-mapCatalog
+repo: https://github.com/1nfinit0/LuisH-mapCatalog
 live: https://1nfinit0.github.io/LuisH-mapCatalog/
 img: /portfolio-astro/img/lhuatay.png
 ---

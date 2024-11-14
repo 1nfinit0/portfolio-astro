@@ -2,8 +2,8 @@
 title: triPascal
 date: Sep. 2024
 languages: [Python]
-repo: https://github.com/portfolio-astro/triPascal
-live: https://github.com/portfolio-astro/triPascal
+repo: https://github.com/1nfinit0/triPascal
+live: https://github.com/1nfinit0/triPascal
 img: /portfolio-astro/img/triPascal.png
 ---
 

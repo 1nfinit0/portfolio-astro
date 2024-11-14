@@ -2,8 +2,8 @@
 title: geoDatasetAnalizer
 date: Oct. 2024
 languages: [Python, SQL, GeoJson, Jupyter Notebook]
-repo: https://github.com/portfolio-astro/Testing4Geotiff
-live: https://github.com/portfolio-astro/Testing4Geotiff
+repo: https://github.com/1nfinit0/Testing4Geotiff
+live: https://github.com/1nfinit0/Testing4Geotiff
 img: /portfolio-astro/img/geodataset.png
 ---
 

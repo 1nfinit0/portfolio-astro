@@ -2,7 +2,7 @@
 title: Cartofy
 date: Feb. 2024
 languages: [JavaScript, HTML, CSS, Leaflet, Geoserver, PostGIS]
-repo: https://github.com/portfolio-astro/cartofy
+repo: https://github.com/1nfinit0/cartofy
 live: https://1nfinit0.github.io/cartofy/
 img: /portfolio-astro/img/cartofy.png
 ---

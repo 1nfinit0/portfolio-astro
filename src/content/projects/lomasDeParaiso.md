@@ -2,7 +2,7 @@
 title: Lomas de Paraíso (Geoportal)
 date: May. 2023
 languages: [Javascript, Python, Leaflet, PL/pgSQL]
-repo: https://github.com/portfolio-astro/LomasDeParaisoGeoPortal
+repo: https://github.com/1nfinit0/LomasDeParaisoGeoPortal
 live: https://1nfinit0.github.io/LomasDeParaisoGeoPortal/
 img: /portfolio-astro/img/paraiso.png
 ---

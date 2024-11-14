@@ -2,7 +2,7 @@
 title: LibCommerce
 date: Mar. 2023
 languages: [JavaScript, HTML, CSS]
-repo: https://github.com/portfolio-astro/LibCommerce
+repo: https://github.com/1nfinit0/LibCommerce
 live: https://1nfinit0.github.io/LibCommerce/
 img: /portfolio-astro/img/libcommerce.png
 ---
